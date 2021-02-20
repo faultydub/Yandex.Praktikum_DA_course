@@ -31,3 +31,7 @@
 - Какие графики должны отображаться и в каком порядке, какие элементы управления должны быть на дашборде (макет дашборда)
 
 [Дашборд](https://public.tableau.com/views/DA_pr_11_Dashboard/_?:language=en&:display_count=y&publish=yes&:origin=viz_share_link])
+
+### Инструменты для исследования:
+
+Библиотеки: `pandas`, `sqlalchemy `, `tableau`
