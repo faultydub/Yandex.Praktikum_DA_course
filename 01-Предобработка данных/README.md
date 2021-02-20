@@ -23,4 +23,4 @@
 
 # Инструменты для исследования:
 
-Библиотеки: `pandas`, `numpy`, `pymystem3`
+Библиотеки: `pandas`, `pymystem3`, `collections`
